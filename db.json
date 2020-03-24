@@ -4,6 +4,11 @@
         {"id": 1, "question": "Don't make so much noise. Jennifer _____ to study for her ESL test!", "options": ["try", "tries", "tried", "is trying"], "correct_option": 3},
         {"id": 2, "question": "Sorry, she can't come to the phone. She _____ her dinner!", "options": ["is having", "having", "has", "have"], "correct_option": 0},
         {"id": 3, "question": "_____ many times every winter in Frankfurt.", "options": ["It snows", "It snowed", "It is snowing", "It is snow"], "correct_option": 0},
-        {"id": 4, "question": "How many students in your class _____ from Korea?", "options": ["will coming", "coming", "are come", "will be coming"], "correct_option": 3}
+        {"id": 4, "question": "How many students in your class _____ from Korea?", "options": ["will coming", "coming", "are come", "will be coming"], "correct_option": 3},
+        {"id": 5, "question": "Billy _____ his teeth before breakfast every morning.", "options": ["will cleaned", "is cleaning", "cleans", "clean"], "correct_option": 2},
+        {"id": 6, "question": "It's 7PM in New York City and _____.", "options": ["it snowed", "it snows", "it's snowing", "there is snow"], "correct_option": 2},
+        {"id": 7, "question": "Babies _____ when they are hungry.", "options": ["cry", "cries", "cried", "are crying"], "correct_option": 0},
+        {"id": 8, "question": "Jane _____ her blue jeans today, but usually she wears a skirt or a dress.", "options": ["wears", "wearing", "wear", "is wearing"], "correct_option": 3},
+        {"id": 9, "question": "I think I _____ a new calculator. This one does not work properly any more.", "options": ["needs", "needed", "need", "am needing"], "correct_option": 2}
     ]
 }
